@@ -1,0 +1,249 @@
+{
+    "book":
+    {
+        "bookName": "猫鼠大作战",
+        "content":
+        [
+            {
+                "voice": "1000.mp3",
+                "image": "1000.jpg",
+                "chinese": "猫鼠大作战",
+                "english": "Rat Naps"
+            },
+            {
+                "voice": "1001.mp3",
+                "wordTitle": "核心拼读词汇",
+                "words":
+                [
+                    {
+                        "word": "c-a-m  Cam"
+                    },
+                    {
+                        "word": "c-a-t  cat"
+                    },
+                    {
+                        "word": "c-u-p  cup"
+                    },
+                    {
+                        "word": "g-o-t  got"
+                    },
+                    {
+                        "word": "m-a-d  mad"
+                    },
+                    {
+                        "word": "n-a-p  nap"
+                    },
+                    {
+                        "word": "p-a-d  pad"
+                    },
+                    {
+                        "word": "r-a-t  rat"
+                    },
+                    {
+                        "word": "r-i-ck  Rick"
+                    },
+                    {
+                        "word": "s-i-d  Sid"
+                    },
+                    {
+                        "word": "s-o-ck  sock"
+                    },
+                    {
+                        "word": "t-i-m  Tim"
+                    },
+                    {
+                        "word": "t-i-n  tin"
+                    },
+                    {
+                        "word": "t-i-p  tip"
+                    }
+                ],
+                "coreWordTitle": "核心视觉词",
+                "letterTitle": "核心拼读字母组合",
+                "coreWords":
+                [
+                    {
+                        "wordEn": "a"
+                    },
+                    {
+                        "wordEn": "at"
+                    },
+                    {
+                        "wordEn": "did"
+                    },
+                    {
+                        "wordEn": "get"
+                    },
+                    {
+                        "wordEn": "in"
+                    },
+                    {
+                        "wordEn": "is"
+                    },
+                    {
+                        "wordEn": "no"
+                    },
+                    {
+                        "wordEn": "not"
+                    },
+                    {
+                        "wordEn": "run"
+                    },
+                    {
+                        "wordEn": "the"
+                    },
+                    {
+                        "wordEn": "up"
+                    }
+                ],
+                "letters":
+                [
+                    "a",
+                    "i",
+                    "o",
+                    "u",
+                    "c",
+                    "d",
+                    "g",
+                    "m",
+                    "n",
+                    "p",
+                    "r",
+                    "s",
+                    "t",
+                    "ck"
+                ]
+            },
+            {
+                "voice": "1002.mp3",
+                "image": "1002.jpg",
+                "chinese": "锡德是垃圾场里的一只老鼠。",
+                "english": "Sid is a rat at the tip."
+            },
+            {
+                "voice": "1003.mp3",
+                "image": "1003.jpg",
+                "chinese": "锡德在一只袜子里打盹儿。",
+                "english": "Sid naps in a sock."
+            },
+            {
+                "voice": "1004.mp3",
+                "image": "1004.jpg",
+                "chinese": "蒂姆在一个罐头盒里打盹儿。",
+                "english": "Tim naps in a tin."
+            },
+            {
+                "voice": "1005.mp3",
+                "image": "1005.jpg",
+                "chinese": "卡姆在一个杯子里打盹儿。",
+                "english": "Cam naps in a cup."
+            },
+            {
+                "voice": "1006.mp3",
+                "image": "1006.jpg",
+                "chinese": "里克不是老鼠！里克是一只猫！",
+                "english": "Rick is not a rat! Rick is a cat!"
+            },
+            {
+                "voice": "1007.mp3",
+                "image": "1007.jpg",
+                "chinese": "里克轻轻地靠近。",
+                "english": "Rick pads up."
+            },
+            {
+                "voice": "1008.mp3",
+                "image": "1008.jpg",
+                "chinese": "里克向几只老鼠扑去。",
+                "english": "Rick runs at the rats."
+            },
+            {
+                "voice": "1009.mp3",
+                "image": "1009.jpg",
+                "chinese": "快跑，老鼠，快跑！",
+                "english": "Run, rats, run!"
+            },
+            {
+                "voice": "1010.mp3",
+                "image": "1010.jpg",
+                "chinese": "里克捉到老鼠了吗？",
+                "english": "Did Rick get a rat?"
+            },
+            {
+                "voice": "1011.mp3",
+                "image": "1011.jpg",
+                "chinese": "没有，里克没有抓到老鼠。",
+                "english": "No, Rick did not get a rat."
+            },
+            {
+                "voice": "1012.mp3",
+                "image": "1012.jpg",
+                "chinese": "里克抓到了一只袜子！",
+                "english": "Rick got a sock!"
+            },
+            {
+                "voice": "1013.mp3",
+                "image": "1013.jpg",
+                "chinese": "里克气坏了。",
+                "english": "Rick is mad."
+            },
+            {
+                "wordTitle": "词汇表",
+                "words":
+                [
+                    {
+                        "tsWord": "n. 猫",
+                        "word": "cat"
+                    },
+                    {
+                        "tsWord": "n. 杯子",
+                        "word": "cup"
+                    },
+                    {
+                        "tsWord": "v. 抓住（过去式是 got）",
+                        "word": "get"
+                    },
+                    {
+                        "tsWord": "adj. 生气的",
+                        "word": "mad"
+                    },
+                    {
+                        "tsWord": "v. （在白天）小睡，打盹（儿）",
+                        "word": "nap"
+                    },
+                    {
+                        "tsWord": "v. 轻轻地走",
+                        "word": "pad"
+                    },
+                    {
+                        "tsWord": "n. 大老鼠",
+                        "word": "rat"
+                    },
+                    {
+                        "tsWord": "v. 跑",
+                        "word": "run"
+                    },
+                    {
+                        "tsWord": "n. 袜子",
+                        "word": "sock"
+                    },
+                    {
+                        "tsWord": "n. 罐",
+                        "word": "tin"
+                    },
+                    {
+                        "tsWord": "n. 垃圾场",
+                        "word": "tip"
+                    },
+                    {
+                        "tsWord": "adv. 靠近",
+                        "word": "up"
+                    }
+                ]
+            }
+        ],
+        "bookId": "0106-1",
+        "bookNameEn": "Rat Naps"
+    },
+    "series": "大猫自然拼读一级",
+    "id": "0106"
+}

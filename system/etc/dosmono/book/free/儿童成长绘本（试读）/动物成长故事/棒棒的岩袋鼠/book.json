@@ -1,0 +1,196 @@
+{
+	"book": {
+		"bookName": "棒棒的岩袋鼠",
+		"content": [{
+			"voice": "1000.mp3",
+			"image": "1000.jpg",
+			"chinese": "棒棒的岩袋鼠\n故事作者：[ 澳 ] 丽贝卡 •约翰逊 著 贺舒雅 译",
+			"english": "Wonderful Wallaby"
+		}, {
+			"voice": "1001.mp3",
+			"image": "1001.jpg",
+			"words": [{
+				"tsWord": "辔甲尾袋鼠",
+				"word": "bridled nailtail wallaby"
+			}],
+			"chinese": "辔甲尾袋鼠妈妈感到十分担忧。",
+			"english": "The bridled nailtail wallaby was very worried."
+		}, {
+			"voice": "1002.mp3",
+			"image": "1002.jpg",
+			"words": [{
+				"tsWord": "幼袋鼠",
+				"word": "joey"
+			}],
+			"chinese": "因为在它睡觉的时候，它的幼袋鼠走丢了，它到处找都找不到它的幼袋鼠。",
+			"english": "Her little joey had wandered off whileshe was sleeping and she could notfind her anywhere."
+		}, {
+			"voice": "1003.mp3",
+			"image": "1003.jpg",
+			"words": [{
+				"tsWord": "鹰",
+				"word": "eagle"
+			}, {
+				"tsWord": "盘旋",
+				"word": "circling"
+			}],
+			"chinese": "更糟糕的是，在它的头顶上方，一只巨大的老鹰正在空中盘旋。",
+			"english": "To make it worse,a large eagle wascircling in the skyabove her."
+		}, {
+			"voice": "1004.mp3",
+			"image": "1004.jpg",
+			"words": [{
+				"tsWord": "跳",
+				"word": "hopped"
+			}, {
+				"tsWord": "慌张地",
+				"word": "frantically"
+			}],
+			"chinese": "\"天哪，我要怎么办呢？\" 它一边哭一边慌张地跳来跳去。",
+			"english": "\"Oh, what will I do?\" shecried, as she hoppedaround frantically."
+		}, {
+			"voice": "1005.mp3",
+			"image": "1005.jpg",
+			"words": [{
+				"tsWord": "红袋鼠",
+				"word": "red kangaroo"
+			}],
+			"chinese": "一只身材高大的红袋鼠听到了辔甲尾袋鼠妈妈的哭声。",
+			"english": "The big redkangaroo heardher cries."
+		}, {
+			"voice": "1006.mp3",
+			"image": "1006.jpg",
+			"chinese": "\"出什么事了？\"红袋鼠问。",
+			"english": "\"What's the problem?\"he asked."
+		}, {
+			"voice": "1007.mp3",
+			"image": "1007.jpg",
+			"words": [{
+				"tsWord": "啜泣",
+				"word": "sobbed"
+			}],
+			"chinese": "\"我的幼袋鼠走丢了，而且现在有一只老鹰正盯着这一带呢！\"辔甲尾袋鼠妈妈啜泣道。",
+			"english": "\"My joey haswandered off andnow there is an eaglewatching,\" sobbed the mother nailtail."
+		}, {
+			"voice": "1008.mp3",
+			"image": "1008.jpg",
+			"chinese": "\"我明白了，\"红袋鼠说，\"这的确是个问题。\"",
+			"english": "\"I see,\" said thekangaroo. \"That isa problem.\""
+		}, {
+			"voice": "1009.mp3",
+			"image": "1009.jpg",
+			"words": [{
+				"tsWord": "马里巴岩袋鼠",
+				"word": "Mareeba rock-wallaby"
+			}],
+			"chinese": "\"我来告诉你谁擅长解决问题，\"红袋鼠说，\"那就是马里巴岩袋鼠。",
+			"english": "\"I'll tell you who is good at solving problems,\" he said, \"the Mareeba rock-wallaby."
+		}, {
+			"voice": "1010.mp3",
+			"image": "1010.jpg",
+			"chinese": "\"有一次发生火灾时，它帮助过我们。 据我所知，它住在岩石中间的高处。\"",
+			"english": "\"He helped us once when there was a fire. He lives up there in the rocks.\""
+		}, {
+			"voice": "1011.mp3",
+			"image": "1011.jpg",
+			"chinese": "\"你为什么不去找它呢？放心，我会留在这里继续搜寻的。\"",
+			"english": "\"Why don't you go and find him and I'll check down here?\""
+		}, {
+			"voice": "1012.mp3",
+			"image": "1012.jpg",
+			"chinese": "\"好主意！\"辔甲尾袋鼠妈妈得到了红袋鼠的帮助，心里感到很高兴。",
+			"english": "\"Good idea,\" said the mother nailtail, feeling very glad to have some help."
+		}, {
+			"voice": "1013.mp3",
+			"image": "1013.jpg",
+			"chinese": "辔甲尾袋鼠妈妈很快就找到了岩袋鼠，把发生的事情都告诉了它。",
+			"english": "She quickly found the rock-wallaby and told him the problem."
+		}, {
+			"voice": "1014.mp3",
+			"image": "1014.jpg",
+			"chinese": "\"好的，\"岩袋鼠说，\"时间紧迫，我会搜寻所有我知道的地方，没准儿小辔甲尾袋鼠会藏在那里。\"",
+			"english": "\"Right,\" he said, \"there's no time to lose. I'll check all the places I know where she could be hiding.\""
+		}, {
+			"voice": "1015.mp3",
+			"image": "1015.jpg",
+			"words": [{
+				"tsWord": "方向",
+				"word": "direction"
+			}],
+			"chinese": "岩袋鼠像子弹一样飞快地冲了出去，它环顾四周，仔细地查找每一处地方",
+			"english": "The rock-wallaby was off like a shot, looking in every direction."
+		}, {
+			"voice": "1017.mp3",
+			"image": "1017.jpg",
+			"words": [{
+				"tsWord": "裂缝",
+				"word": "crack"
+			}],
+			"chinese": "它检查了岩石上的每一处裂缝。",
+			"english": "He checked every crack in the rocks,"
+		}, {
+			"voice": "1018.mp3",
+			"image": "1018.jpg",
+			"words": [{
+				"tsWord": "闻",
+				"word": "sniffed"
+			}, {
+				"tsWord": "气味",
+				"word": "scent"
+			}],
+			"chinese": "它边走边闻着地面，搜寻小辔甲尾袋鼠可能留下的气味。",
+			"english": "and sniffed the ground for any scent the little nailtail may have left behind."
+		}, {
+			"voice": "1019.mp3",
+			"image": "1019.jpg",
+			"chinese": "辔甲尾袋鼠妈妈看到老鹰离这一带更近了。",
+			"english": "The mother nailtail saw that the eagle had come closer."
+		}, {
+			"voice": "1020.mp3",
+			"image": "1020.jpg",
+			"words": [{
+				"tsWord": "分散（注意力）",
+				"word": "distract"
+			}],
+			"chinese": "为了转移老鹰的注意力，它不停地跳上跳下。",
+			"english": "She jumped up and down to distract it."
+		}, {
+			"voice": "1021.mp3",
+			"image": "1021.jpg",
+			"words": [{
+				"tsWord": "声音",
+				"word": "voice"
+			}],
+			"chinese": "\"找到它啦！\"聪明的岩袋鼠的喊声传来。",
+			"english": "\"Found her!\" came the clever rock-wallaby's voice."
+		}, {
+			"voice": "1022.mp3",
+			"image": "1022.jpg",
+			"words": [{
+				"tsWord": "（动物因害怕或准备攻击而）蜷伏",
+				"word": "crouched"
+			}, {
+				"tsWord": "（树、灌木等）丛",
+				"word": "clump"
+			}],
+			"chinese": "果真找到了！小辔甲尾袋鼠蜷缩成一团，躲在草丛里，吓得动弹不得。",
+			"english": "And, sure enough, the little nailtail was crouched, hiding in a clump of grass, too scared to move."
+		}, {
+			"voice": "1023.mp3",
+			"image": "1023.jpg",
+			"words": [{
+				"tsWord": "欢呼",
+				"word": "cheered"
+			}, {
+				"tsWord": "帮助",
+				"word": "rescue"
+			}],
+			"chinese": "\"太好了，谢谢你！\"辔甲尾袋鼠妈妈欢呼道，\"红袋鼠说得对，你总是能给大家提供帮助。\"",
+			"english": "\"Oh, thank you!\" cheered the mother nailtail. \"The kangaroo was right. You always come to the rescue.\""
+		}],
+		"bookId": "0003-1",
+		"bookNameEn": "Wonderful Wallaby"
+	},
+	"series": "动物成长故事第三辑",
+	"id": "0003"
+}

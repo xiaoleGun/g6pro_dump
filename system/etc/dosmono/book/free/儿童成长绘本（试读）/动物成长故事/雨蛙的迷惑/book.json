@@ -1,0 +1,152 @@
+{
+	"book": {
+		"bookName": "雨蛙的迷惑",
+		"content": [{
+			"voice": "1000.mp3",
+			"image": "1000.jpg",
+			"chinese": "雨蛙的迷惑\n故事作者：[ 澳 ] 丽贝卡 •约翰逊 著 枫烨 译",
+			"english": "Tree-frog Tangles"
+		}, {
+			"voice": "1002.mp3",
+			"image": "1002.jpg",
+			"words": [{
+				"tsWord": "红眼雨滨蛙",
+				"word": "red-eyed tree-frog"
+			}],
+			"chinese": "\"那是什么声音？\"红眼雨滨蛙想。",
+			"english": "\"What's that noise?\"thought the red-eyedtree-frog."
+		}, {
+			"voice": "1003.mp3",
+			"image": "1003.jpg",
+			"chinese": "当红眼雨滨蛙姑娘第一次听到这个声音时，它正坐着观察一只看起来很好吃的虫子。",
+			"english": "She had been sitting watching a tasty-lookingbug when she heard it for the first time."
+		}, {
+			"voice": "1004.mp3",
+			"image": "1004.jpg",
+			"chinese": "红眼雨滨蛙静静地坐在那里听着。什么都没有发生。",
+			"english": "She sat quite stilland listened.Nothing."
+		}, {
+			"voice": "1005.mp3",
+			"image": "1005.jpg",
+			"chinese": "小小的红眼雨滨蛙爬到一根高杆的顶端，希望能再次听到那个令人愉快的声音。",
+			"english": "The little frog climbed tothe top of a tall stick,hoping to hear the lovelysound again."
+		}, {
+			"voice": "1006.mp3",
+			"image": "1006.jpg",
+			"words": [{
+				"tsWord": "使吓一跳",
+				"word": "startled"
+			}, {
+				"tsWord": "吠",
+				"word": "barking"
+			}],
+			"chinese": "但事与愿违，它反而被一个像狗叫的声音吓了一跳。",
+			"english": "Instead, she wasstartled by anoise like adog barking."
+		}, {
+			"voice": "1007.mp3",
+			"image": "1007.jpg",
+			"words": [{
+				"tsWord": "巨雨滨蛙",
+				"word": "white-lipped tree-frog"
+			}],
+			"chinese": "当红眼雨滨蛙往下看时，它发现声音来自一只巨雨滨蛙。",
+			"english": "As she lookeddown, shecould see thatthe soundcame from awhite-lippedtree-frog."
+		}, {
+			"voice": "1008.mp3",
+			"image": "1008.jpg",
+			"words": [{
+				"tsWord": "失望的",
+				"word": "disappointed"
+			}],
+			"chinese": "红眼雨滨蛙非常失望。那不是它想听到的声音。",
+			"english": "The red-eyed tree-frog was very disappointed.That was not what she wanted to hear."
+		}, {
+			"voice": "1009.mp3",
+			"image": "1009.jpg",
+			"chinese": "随后，它又听到了那个令人愉快的声音。",
+			"english": "And then, she heard it again."
+		}, {
+			"voice": "1010.mp3",
+			"image": "1010.jpg",
+			"chinese": "那个声音从很远的地方传来，但那是它所听到过的最美妙的声音。",
+			"english": "It came from along way off, butit was the mostbeautiful soundshe had everheard."
+		}, {
+			"voice": "1011.mp3",
+			"image": "1011.jpg",
+			"chinese": "它开始朝着声源的方向移动。",
+			"english": "She set off in thedirection of thesound."
+		}, {
+			"voice": "1012.mp3",
+			"image": "1012.jpg",
+			"chinese": "红眼雨滨蛙飞快地从一片叶子跳到另一片叶子。",
+			"english": "She was jumpingfrom leaf to leafso quickly thatshe almost fell."
+		}, {
+			"voice": "1013.mp3",
+			"image": "1013.jpg",
+			"words": [{
+				"tsWord": "生气的",
+				"word": "cross"
+			}],
+			"chinese": "它跳得太快了，差点儿从叶子上掉下去。当它听到有人嘲笑它时，它很生气，",
+			"english": "She was quite cross when she heard someonelaughing at her,"
+		}, {
+			"voice": "1014.mp3",
+			"image": "1014.jpg",
+			"words": [{
+				"tsWord": "罗氏雨滨蛙",
+				"word": "Roth's tree-frog"
+			}],
+			"chinese": "直到它意识到那不过是罗氏雨滨蛙的叫声。",
+			"english": "until she realised it was just the call of aRoth's tree-frog."
+		}, {
+			"voice": "1015.mp3",
+			"image": "1015.jpg",
+			"words": [{
+				"tsWord": "有决心的",
+				"word": "determined"
+			}, {
+				"tsWord": "绿雨滨蛙",
+				"word": "green tree-frog"
+			}],
+			"chinese": "红眼雨滨蛙决心要找到那个声音，它是如此坚决，以至于径直跳到了一只巨大的绿雨滨蛙身上。",
+			"english": "The red-eyed tree-frog was so determined to findthe sound that she jumped right on top of a biggreen tree-frog."
+		}, {
+			"voice": "1016.mp3",
+			"image": "1016.jpg",
+			"words": [{
+				"tsWord": "结结巴巴地说",
+				"word": "stammered"
+			}],
+			"chinese": "\"哦！请原谅我。\"红眼雨滨蛙结结巴巴地说。",
+			"english": "\"Oh! Please excuse me,\"she stammered."
+		}, {
+			"voice": "1017.mp3",
+			"image": "1017.jpg",
+			"words": [{
+				"tsWord": "咩啼雨滨蛙",
+				"word": "bleating tree-frog"
+			}],
+			"chinese": "当红眼雨滨蛙快速地在雨林中飞跃弹跳时，它听到了越来越大的咩啼雨滨蛙的叫声。但是红眼雨滨蛙想听到那个如此令人愉快的声音。",
+			"english": "As she raced on through the rainforest inhuge leaps and bounds, she could hearbleating tree-frog calls grow louder andlouder.But she wanted to hear the sound, thelovely, lovely sound."
+		}, {
+			"voice": "1020.mp3",
+			"image": "1020.jpg",
+			"chinese": "红眼雨滨蛙知道自己离那个声音肯定越来越近了。随后，它听到了那个声音。一开始很轻柔，然后声音越来越大。",
+			"english": "She knew she must be gettingcloser.Then, she heard it. Softly atfirst, then louder."
+		}, {
+			"voice": "1021.mp3",
+			"image": "1021.jpg",
+			"chinese": "红眼雨滨蛙低下头，看到了它所见过的最英俊的蛙先生。",
+			"english": "She looked down andsaw the handsomestfrog she had ever seen,"
+		}, {
+			"voice": "1022.mp3",
+			"image": "1022.jpg",
+			"chinese": "蛙先生坐在一朵花上，这朵花正是为追寻声音而来的红眼雨滨蛙姑娘挑选的。",
+			"english": "and he was sitting on aflower he had chosen justfor her."
+		}],
+		"bookId": "0008-6",
+		"bookNameEn": "Tree-frog Tangles"
+	},
+	"series": "动物成长故事第八辑",
+	"id": "0008"
+}

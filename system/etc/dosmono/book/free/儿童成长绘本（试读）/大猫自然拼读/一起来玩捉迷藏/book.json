@@ -1,0 +1,151 @@
+{
+    "book":
+    {
+        "bookName": "一起来玩捉迷藏",
+        "content":
+        [
+            {
+                "voice": "1000.mp3",
+                "image": "1000.jpg",
+                "chinese": "一起来玩捉迷藏",
+                "english": "Nip! Nip!"
+            },
+            {
+                "voice": "1001.mp3",
+                "wordTitle": "核心拼读词汇",
+                "words":
+                [
+                    {
+                        "word": "d-a-d  dad"
+                    },
+                    {
+                        "word": "n-i-p  nip"
+                    },
+                    {
+                        "word": "p-a-m  Pam"
+                    },
+                    {
+                        "word": "p-a-t  pat(Pat)"
+                    },
+                    {
+                        "word": "s-a-m  Sam"
+                    },
+                    {
+                        "word": "t-a-p  tap"
+                    },
+                    {
+                        "word": "t-i-m  Tim"
+                    }
+                ],
+                "coreWordTitle": "核心视觉词",
+                "letterTitle": "核心拼读字母组合",
+                "coreWords":
+                [
+                    {
+                        "wordEn": "is"
+                    },
+                    {
+                        "wordEn": "it"
+                    }
+                ],
+                "letters":
+                [
+                    "a",
+                    "i",
+                    "d",
+                    "m",
+                    "n",
+                    "p",
+                    "s",
+                    "t"
+                ]
+            },
+            {
+                "voice": "1002.mp3",
+                "image": "1002.jpg",
+                "chinese": "夹一夹！",
+                "english": "Nip! Nip!"
+            },
+            {
+                "voice": "1003.mp3",
+                "image": "1003.jpg",
+                "chinese": "是爸爸。",
+                "english": "It is Dad."
+            },
+            {
+                "voice": "1004.mp3",
+                "image": "1004.jpg",
+                "chinese": "敲一敲！\n是蒂姆吗？",
+                "english": "Tap! Tap!\nIs it Tim?"
+            },
+            {
+                "voice": "1005.mp3",
+                "image": "1005.jpg",
+                "chinese": "是帕特！",
+                "english": "It is Pat!"
+            },
+            {
+                "voice": "1006.mp3",
+                "image": "1006.jpg",
+                "chinese": "夹一夹！\n是蒂姆吗？",
+                "english": "Nip! Nip!\nIs it Tim?"
+            },
+            {
+                "voice": "1007.mp3",
+                "image": "1007.jpg",
+                "chinese": "是萨姆！",
+                "english": "It is Sam!"
+            },
+            {
+                "voice": "1008.mp3",
+                "image": "1008.jpg",
+                "chinese": "敲一敲！\n是蒂姆吗？",
+                "english": "Tap! Tap!\nIs it Tim?"
+            },
+            {
+                "voice": "1009.mp3",
+                "image": "1009.jpg",
+                "chinese": "是帕姆！",
+                "english": "It is Pam!"
+            },
+            {
+                "voice": "1010.mp3",
+                "image": "1010.jpg",
+                "chinese": "拍一拍！\n是蒂姆吗？",
+                "english": "Pat! Pat!\nIs it Tim?"
+            },
+            {
+                "voice": "1011.mp3",
+                "image": "1011.jpg",
+                "chinese": "是蒂姆！",
+                "english": "It is Tim!"
+            },
+            {
+                "wordTitle": "词汇表",
+                "words":
+                [
+                    {
+                        "tsWord": "n. 爸爸",
+                        "word": "dad"
+                    },
+                    {
+                        "tsWord": "v. 夹",
+                        "word": "nip"
+                    },
+                    {
+                        "tsWord": "v. 轻拍",
+                        "word": "pat"
+                    },
+                    {
+                        "tsWord": "v. 轻敲",
+                        "word": "tap"
+                    }
+                ]
+            }
+        ],
+        "bookId": "0101-1",
+        "bookNameEn": "Nip! Nip!"
+    },
+    "series": "大猫自然拼读一级",
+    "id": "0101"
+}

@@ -1,0 +1,274 @@
+{
+    "book":
+    {
+        "bookName": "马儿营救计划",
+        "content":
+        [
+            {
+                "voice": "1000.mp3",
+                "image": "1000.jpg",
+                "chinese": "马儿营救计划",
+                "english": "Horse up a Tree"
+            },
+            {
+                "voice": "1001.mp3",
+                "wordTitle": "核心拼读词汇",
+                "words":
+                [
+                    {
+                        "word": "a-b-ou-t  about"
+                    },
+                    {
+                        "word": "sk-y  sky"
+                    },
+                    {
+                        "word": "tr-y  try"
+                    },
+                    {
+                        "word": "d-ay  day"
+                    },
+                    {
+                        "word": "h-ay  hay"
+                    },
+                    {
+                        "word": "n-ay  nay"
+                    },
+                    {
+                        "word": "sh-ee-p  sheep"
+                    },
+                    {
+                        "word": "tr-ee  tree"
+                    },
+                    {
+                        "word": "h-a-nd-b-oo-k  handbook"
+                    },
+                    {
+                        "word": "sh-oo-k  shook"
+                    },
+                    {
+                        "word": "gr-ou-nd  ground"
+                    },
+                    {
+                        "word": "b-e-l-ow  below"
+                    },
+                    {
+                        "word": "sh-ow  show"
+                    },
+                    {
+                        "word": "m-a-n-e  mane"
+                    },
+                    {
+                        "word": "t-i-m-e  time"
+                    },
+                    {
+                        "word": "br-o-k-e  broke"
+                    },
+                    {
+                        "word": "r-o-p-e  rope"
+                    },
+                    {
+                        "word": "f-ar  far"
+                    },
+                    {
+                        "word": "f-ar-m-er  farmer"
+                    },
+                    {
+                        "word": "l-a-dd-er  ladder"
+                    },
+                    {
+                        "word": "h-or-se  horse"
+                    }
+                ],
+                "coreWordTitle": "核心视觉词",
+                "letterTitle": "核心拼读字母组合",
+                "coreWords":
+                [
+                    {
+                        "wordEn": "as"
+                    },
+                    {
+                        "wordEn": "came"
+                    },
+                    {
+                        "wordEn": "one"
+                    },
+                    {
+                        "wordEn": "say"
+                    },
+                    {
+                        "wordEn": "what"
+                    }
+                ],
+                "letters":
+                [
+                    "a",
+                    "(as",
+                    "in",
+                    "about)",
+                    "y",
+                    "ay",
+                    "ee",
+                    "oo",
+                    "ou",
+                    "ow",
+                    "a-e",
+                    "i-e",
+                    "o-e",
+                    "ar",
+                    "er",
+                    "or"
+                ]
+            },
+            {
+                "voice": "1002.mp3",
+                "image": "1002.jpg",
+                "chinese": "一天，马儿上了树……被困住了。",
+                "english": "One day Horse went up a tree ...... and got stuck."
+            },
+            {
+                "voice": "1003.mp3",
+                "image": "1003.jpg",
+                "chinese": "鸭子、母鸡和羊，全都跑到树下帮马儿。\n嘎嘎！咯咯！咩—咩—！",
+                "english": "The ducks and the hens and the sheep ran to the tree to help Horse.\nQuack-quack! Cluck-cluck! Baa-baa!"
+            },
+            {
+                "voice": "1004.mp3",
+                "image": "1004.jpg",
+                "chinese": "农夫搬来一架梯子。“从梯子上爬下来！”农夫对马儿说。",
+                "english": "Farmer came with a ladder.“Get on the ladder!” Farmer said to Horse."
+            },
+            {
+                "voice": "1005.mp3",
+                "image": "1005.jpg",
+                "chinese": "动物们全都拥到梯子上，给马儿演示怎么做。\n嘎嘎！咯咯！咩—咩—！\n马儿往地上看看，好高。\n他摇摇头，说“不！”",
+                "english": "They all got on the ladder to show Horse what to do.Quack-quack! \nCluck-cluck! Baa-baa!Horse looked at the ground far below.Horse shook his mane and said nay!"
+            },
+            {
+                "voice": "1006.mp3",
+                "image": "1006.jpg",
+                "chinese": "农夫往树枝上吊了一根绳子。“从绳子上荡下来！”农夫对马儿说。",
+                "english": "Farmer hung a rope from a branch.“Swing on the rope!” Farmer said to Horse."
+            },
+            {
+                "voice": "1007.mp3",
+                "image": "1007.jpg",
+                "chinese": "动物们全都抓住绳子荡呀荡，给马儿演示怎么做。\n嘎嘎！咯咯！咩—咩—！\n马儿往地上看看，好高。\n他摇摇头，说“不！”",
+                "english": "They all swung on the rope to show Horse what to do.\nQuack-quack! \nCluck-cluck! Baa-baa!Horse looked at the ground far below.\nHorse shook his mane and said nay!"
+            },
+            {
+                "voice": "1008.mp3",
+                "image": "1008.jpg",
+                "chinese": "农夫抱来一堆干草。“跳到干草上来！”农夫对马儿说。",
+                "english": "Farmer got some hay.“Jump on the hay!” Farmer said to Horse."
+            },
+            {
+                "voice": "1009.mp3",
+                "image": "1009.jpg",
+                "chinese": "动物们全都跳到干草上，给马儿演示怎么做。\n嘎嘎！咯咯！咩—咩—！\n马儿往地上看看，好高。\n他摇摇头，说“不！”",
+                "english": "They all jumped on the hay to show Horse what to do.\nQuack-quack! Cluck-cluck! Baa-baa!\nHorse looked at the ground far below.\nHorse shook his mane and said nay!"
+            },
+            {
+                "voice": "1010.mp3",
+                "image": "1010.jpg",
+                "chinese": "“再试最后一次……不要往地上看，就在树枝上跳！”农夫对马儿说。",
+                "english": "“One last try ... do not look at the ground,just hop on the branch!” Farmer said to Horse."
+            },
+            {
+                "voice": "1011.mp3",
+                "image": "1011.jpg",
+                "chinese": "动物们全都跳来跳去，给马儿演示怎么做。\n嘎嘎！咯咯！咩—咩—！",
+                "english": "They all hopped about to show Horse what to do.\nQuack-quack! Cluck-cluck! Baa-baa!"
+            },
+            {
+                "voice": "1012.mp3",
+                "image": "1012.jpg",
+                "chinese": "这回马儿没有说“不！”\n他跳的时候往上看着天空，然后……咔嚓！树枝折断了……",
+                "english": "This time Horse did not say nay!\nHe looked up at the sky as he hopped and ...CRACK!The branch broke ..."
+            },
+            {
+                "voice": "1013.mp3",
+                "image": "1013.jpg",
+                "chinese": "“哞哞！”“咩—咩—！”“嘎嘎！”“咯咯！”\n……然后他们全都落在了干草里。",
+                "english": "Moo-moo!Baa-baa!Quack-quack!Cluck-cluck!\n... and they all landed in the hay."
+            },
+            {
+                "wordTitle": "词汇表",
+                "words":
+                [
+                    {
+                        "tsWord": "adv.  在下面",
+                        "word": "below"
+                    },
+                    {
+                        "tsWord": "n.  树枝",
+                        "word": "branch"
+                    },
+                    {
+                        "tsWord": "v.  断裂（过去式是 broke）",
+                        "word": "break"
+                    },
+                    {
+                        "tsWord": "n.（鸡的）咯咯声",
+                        "word": "cluck"
+                    },
+                    {
+                        "tsWord": "n.  爆裂声",
+                        "word": "crack"
+                    },
+                    {
+                        "tsWord": "n.  手册",
+                        "word": "handbook"
+                    },
+                    {
+                        "tsWord": "v.  吊，悬挂（过去式是 hung）",
+                        "word": "hang"
+                    },
+                    {
+                        "tsWord": "n.（作饲料用的）干草",
+                        "word": "hay"
+                    },
+                    {
+                        "tsWord": "v.  跳跃",
+                        "word": "hop"
+                    },
+                    {
+                        "tsWord": "n.  梯子",
+                        "word": "ladder"
+                    },
+                    {
+                        "tsWord": "v.  掉落",
+                        "word": "land"
+                    },
+                    {
+                        "tsWord": "adj.  最后的",
+                        "word": "last"
+                    },
+                    {
+                        "tsWord": "n.（马）鬃",
+                        "word": "mane"
+                    },
+                    {
+                        "tsWord": "n.  绳",
+                        "word": "rope"
+                    },
+                    {
+                        "tsWord": "说“不”，拒绝",
+                        "word": "say nay"
+                    },
+                    {
+                        "tsWord": "adj.  无法移动的",
+                        "word": "stuck"
+                    },
+                    {
+                        "tsWord": "v.  摇晃，摇荡（过去式是 swung）",
+                        "word": "swing"
+                    }
+                ]
+            }
+        ],
+        "bookId": "0106-1",
+        "bookNameEn": "Horse up a Tree"
+    },
+    "series": "大猫自然拼读四级",
+    "id": "0106"
+}

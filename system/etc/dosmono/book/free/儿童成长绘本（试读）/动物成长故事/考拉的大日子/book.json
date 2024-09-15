@@ -1,0 +1,184 @@
+{
+	"id": "00001",
+	"series": "01动物成长故事第一辑",
+	"book": {
+		"bookId": "0001-1",
+		"bookName": "考拉的大日子 ",
+		"content": [
+			{
+				"english": "Koala's Big Day.\n Story by Rebecca Johnson ",
+				"chinese": "考拉的大日子 \n 故事作者：丽贝卡-约翰逊 ",
+				"image": "1000.jpg",
+				"voice": "1000.mp3"
+			},
+			{
+				"english": "When the koalas heard the news,",
+				"chinese": "当考拉们听到这个消息的时候，",
+				"image": "1001.jpg",
+				"voice": "1001.mp3"
+			},
+			{
+				"english": "they came from everywhere.",
+				"chinese": "它们从四面八方赶来。",
+				"image": "1002.jpg",
+				"voice": "1002.mp3"
+			},
+			{
+				"english": "There were koalas with coats of light-coloured fur.",
+				"chinese": "有毛色浅的考拉。",
+				"image": "1003.jpg",
+				"voice": "1003.mp3",
+				"words": [
+					{
+						"word": "light-coloured",
+						"tsWord": "颜色浅的"
+					}
+				]
+			},
+			{
+				"english": "There were koalas with coats of dark-coloured fur.",
+				"chinese": "有毛色深的考拉。",
+				"image": "1004.jpg",
+				"voice": "1004.mp3",
+				"words": [
+					{
+						"word": "dark-coloured",
+						"tsWord": "颜色深的"
+					}
+				]
+			},
+			{
+				"english": "There were fast young koalas,",
+				"chinese": "有行动迅速的小考拉，",
+				"image": "1005.jpg",
+				"voice": "1005.mp3"
+			},
+			{
+				"english": "and wise, old koalas.",
+				"chinese": "也有充满智慧的老考拉。",
+				"image": "1006.jpg",
+				"voice": "1006.mp3"
+			},
+			{
+				"english": "They all stopped to listen as the news spread through the bush.",
+				"chinese": "当消息在丛林中传播开来的时候，它们都停下来倾听。",
+				"image": "1007.jpg",
+				"voice": "1007.mp3"
+			},
+			{
+				"english": "",
+				"chinese": "",
+				"image": "1008.jpg",
+				"voice": ""
+			},
+			{
+				"english": "Baby koala heard the news, too.",
+				"chinese": "考拉宝宝也听到了这个消息。",
+				"image": "1009.jpg",
+				"voice": "1009.mp3"
+			},
+			{
+				"english": "‘Can we go?’ he asked his mother.",
+				"chinese": "‘我们可以去吗？’它问妈妈。",
+				"image": "1010.jpg",
+				"voice": "1010.mp3"
+			},
+			{
+				"english": "‘It’s a long way,’ said mother koala.",
+				"chinese": "‘路很远。’考拉妈妈说道，",
+				"image": "1011.jpg",
+				"voice": "1011.mp3"
+			},
+			{
+				"english": "‘You would have to hang on very tightly.’",
+				"chinese": "‘你必须牢牢抓住我。’",
+				"image": "1012.jpg",
+				"voice": "1012.mp3",
+				"words": [
+					{
+						"word": "hang on",
+						"tsWord": "紧紧抓住"
+					}
+				]
+			},
+			{
+				"english": "Baby koala climbed onto his mother’s back and they set off to follow the others.",
+				"chinese": "考拉宝宝爬到妈妈的背上，它们跟着其他考拉出发了。",
+				"image": "1013.jpg",
+				"voice": "1013.mp3"
+			},
+			{
+				"english": "On the way, they met a lazy, old koala lounging about in the fork of a tree.",
+				"chinese": "路上，它们遇到了一只懒洋洋的老考拉倚在树杈上。",
+				"image": "1014.jpg",
+				"voice": "1014.mp3",
+				"words": [
+					{
+						"word": "lounging",
+						"tsWord": "斜靠"
+					}
+				]
+			},
+			{
+				"english": "‘Do you want to come with us?’ called baby koala.",
+				"chinese": "‘您想和我们一起去吗？’考拉宝宝喊道。",
+				"image": "1015.jpg",
+				"voice": "1015.mp3"
+			},
+			{
+				"english": "‘Not today,’ said the old koala. ‘I’m too tired today.’",
+				"chinese": "‘今天不行，’老考拉说，‘我今天太累了。",
+				"image": "1016.jpg",
+				"voice": "1016.mp3"
+			},
+			{
+				"english": "‘You go along and tell me all about it when you get back.’",
+				"chinese": "‘你们去吧，回来的时候告诉我都发生了什么。’",
+				"image": "1017.jpg",
+				"voice": "1017.mp3"
+			},
+			{
+				"english": "They followed the other koalas until they reached an enormous eucalypt. The tree was covered in fresh, green leaves.",
+				"chinese": "它们跟着其他考拉到达一棵巨大的桉树旁。树上长满了鲜嫩的绿叶。",
+				"image": "1018.jpg",
+				"voice": "1018.mp3",
+				"words": [
+					{
+						"word": "eucalypt",
+						"tsWord": "桉树 "
+					}
+				]
+			},
+			{
+				"english": "Then they heard a shout...",
+				"chinese": "接着它们听到一声叫喊……",
+				"image": "1019.jpg",
+				"voice": "1019.mp3"
+			},
+			{
+				"english": "‘Hoy! Come and join the fun.’",
+				"chinese": "‘嗨！一起来玩吧。’",
+				"image": "1020.jpg",
+				"voice": "1020.mp3"
+			},
+			{
+				"english": "There were koalas everywhere! It was a koala party.",
+				"chinese": "到处都是考拉！这是一个考拉聚会。",
+				"image": "1021.jpg",
+				"voice": "1021.mp3"
+			},
+			{
+				"english": "And there were enough fresh, green leaves for everyone. Baby koala picked some to take home to the big, old koala.",
+				"chinese": "每只考拉都有充足的、鲜嫩的绿叶。考拉宝宝摘了一些带回去给大块头的老考拉吃。",
+				"image": "1022.jpg",
+				"voice": "1022.mp3"
+			},
+			{
+				"english": "It was a very exciting day.",
+				"chinese": "这真是精彩的一天。 ",
+				"image": "1023.jpg",
+				"voice": "1023.mp3"
+			}
+		]
+	}
+}

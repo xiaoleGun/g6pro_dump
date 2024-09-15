@@ -1,0 +1,46 @@
+#资源名称;              资源路径;                        翻译方向
+# common
+#转义字符
+com.symbol;             res/com/symbol.lex;                  symbol
+com.stopword;           res/com/stopword.lex;                stopword
+#汉语转英语的标点
+punct_cnen;             res/cn/cnen/punct_cnen.lex;         symbol
+trad2simp;              res/cn/trad2simp.lex;               symbol
+# en
+en.symbol;              res/en/symbol.lex;                  symbol
+en.abbr;                res/en/abbr.lex;                    abbr
+
+#英语转汉语的标点
+punct_encn;             res/en/encn/punct_encn.lex;         symbol
+#英文合并
+en.rp_rejoin;           res/en/rp_rejoin.lex;               s2s
+#英文字母大小写
+en.rp_truecase;         res/en/rp_truecase.lex;             s2s
+#快速替换列表
+cnen.quick_replace;     res/cn/cnen/quick_replace.lex;       quick_replace
+encn.quick_replace;     res/en/encn/quick_replace.lex;       quick_replace
+enja.quick_replace;     res/en/enja/quick_replace.lex;       quick_replace
+
+cnja.quick_replace;     res/cn/cnja/quick_replace.lex;       quick_replace
+jacn.quick_replace;     res/ja/jacn/quick_replace.lex;       quick_replace
+cnko.quick_replace;     res/cn/cnko/quick_replace.lex;       quick_replace
+kocn.quick_replace;     res/ja/kocn/quick_replace.lex;       quick_replace
+cnru.quick_replace;     res/cn/cnru/quick_replace.lex;       quick_replace
+rucn.quick_replace;     res/ru/rucn/quick_replace.lex;       quick_replace
+
+# trans database 记忆库文件，存储翻译句对
+cnen.trans_db;          res/cn/cnen/trans.db;               trans_db
+encn.trans_db;          res/en/encn/trans.db;               trans_db
+enja.trans_db;          res/en/enja/trans.db;               trans_db
+
+cnja.trans_db;          res/cn/cnja/trans.db;               trans_db
+jacn.trans_db;          res/ja/jacn/trans.db;               trans_db
+cnko.trans_db;          res/cn/cnko/trans.db;               trans_db
+kocn.trans_db;          res/ko/kocn/trans.db;               trans_db
+cnru.trans_db;          res/cn/cnru/trans.db;               trans_db
+rucn.trans_db;          res/ru/rucn/trans.db;               trans_db
+
+#后处理替换(借用快表的数据结构)
+enja.post_replace;      res/en/enja/post_replace.lex;        quick_replace
+cnen.post_replace;      res/cn/cnen/post_replace.lex;        quick_replace
+encn.post_replace;      res/en/encn/post_replace.lex;        quick_replace

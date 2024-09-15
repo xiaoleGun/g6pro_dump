@@ -1,0 +1,111 @@
+{
+    "book":
+    {
+        "bookName": "毛毛虫的家",
+        "content":
+        [
+            {
+                "voice": "1000.mp3",
+                "image": "1000.jpg",
+                "chinese": "毛毛虫的家",
+                "english": "Caterpillar's Home"
+            },
+            {
+                "voice": "1001.mp3",
+                "wordTitle": "Key Words",
+                "sentences":
+                [
+                    {
+                        "sentenceEn": "Where is ...?"
+                    }
+                ],
+                "sentenceTitle": "Sentence Structures",
+                "words":
+                [
+                    {
+                        "word": "on"
+                    },
+                    {
+                        "word": " under"
+                    },
+                    {
+                        "word": " beside"
+                    },
+                    {
+                        "word": " behind"
+                    },
+                    {
+                        "word": " in"
+                    },
+                    {
+                        "word": " by"
+                    }
+                ]
+            },
+            {
+                "voice": "1002.mp3",
+                "image": "1002.jpg",
+                "chinese": "毛毛虫迷路了。",
+                "english": "Caterpillar is lost."
+            },
+            {
+                "voice": "1003.mp3",
+                "image": "1003.jpg",
+                "chinese": "青蛙来帮忙。\n\"我来帮你找到你的家吧。",
+                "english": "Frog comes to help.\nI'll help you find your home."
+            },
+            {
+                "voice": "1004.mp3",
+                "image": "1004.jpg",
+                "chinese": "青蛙看看石头上面。\n\"一只蜥蜴住在这里。\"",
+                "english": "Frog looks on a rock.\nA lizard lives here."
+            },
+            {
+                "voice": "1005.mp3",
+                "image": "1005.jpg",
+                "chinese": "毛毛虫看看石头底下\n\"一条虫子住在这里。\"",
+                "english": "Caterpillar looks under the rock.\nA worm lives here."
+            },
+            {
+                "voice": "1006.mp3",
+                "image": "1006.jpg",
+                "chinese": "青蛙看看树的旁边。\n\"一只蜘蛛住在这里。\"",
+                "english": "Frog looks beside a tree.\nA spider lives here."
+            },
+            {
+                "voice": "1007.mp3",
+                "image": "1007.jpg",
+                "chinese": "毛毛虫看看树的后面\n\"一只鸭子住在这里。\"",
+                "english": "Caterpillar looks behind the tree.\nA duck lives here."
+            },
+            {
+                "voice": "1008.mp3",
+                "image": "1008.jpg",
+                "chinese": "青蛙看看河里。\n\"一条鱼住在这里。\"",
+                "english": "Frog looks in a river.\nA fish lives here."
+            },
+            {
+                "voice": "1009.mp3",
+                "image": "1009.jpg",
+                "chinese": "青蛙看看河边。",
+                "english": "Frog looks by the river."
+            },
+            {
+                "voice": "1010.mp3",
+                "image": "1010.jpg",
+                "chinese": "青蛙左看右看。\n\"你的家在哪里？ \"青蛙问。",
+                "english": "Frog looks here and there.\n\"Where is your home?\" asks Frog."
+            },
+            {
+                "voice": "1011.mp3",
+                "image": "1011.jpg",
+                "chinese": "\"我住在这里。\"",
+                "english": "I live here."
+            }
+        ],
+        "bookId": "0204-1",
+        "bookNameEn": "Caterpillar's Home"
+    },
+    "series": "丽声北极星分级绘本第一级下",
+    "id": "0204"
+}

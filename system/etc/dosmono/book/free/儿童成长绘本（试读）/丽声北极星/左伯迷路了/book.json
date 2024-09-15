@@ -1,0 +1,159 @@
+{
+    "book":
+    {
+        "bookName": "左伯迷路了",
+        "content":
+        [
+            {
+                "voice": "1000.mp3",
+                "image": "1000.jpg",
+                "chinese": "左伯迷路了",
+                "english": "Are You Lost, Zob?"
+            },
+            {
+                "voice": "1001.mp3",
+                "wordTitle": "Key Words",
+                "sentences":
+                [
+                    {
+                        "sentenceEn": "Where is the ...?"
+                    },
+                    {
+                        "sentenceEn": "Is this the ...?"
+                    },
+                    {
+                        "sentenceEn": "It's next to ..."
+                    }
+                ],
+                "sentenceTitle": "Sentence Structures",
+                "words":
+                [
+                    {
+                        "word": "teachers' office"
+                    },
+                    {
+                        "word": " way"
+                    },
+                    {
+                        "word": " first floor"
+                    },
+                    {
+                        "word": " library"
+                    },
+                    {
+                        "word": "language room"
+                    },
+                    {
+                        "word": " art room"
+                    },
+                    {
+                        "word": " computer"
+                    },
+                    {
+                        "word": "room"
+                    },
+                    {
+                        "word": " next to"
+                    },
+                    {
+                        "word": " science lab"
+                    },
+                    {
+                        "word": " music room"
+                    },
+                    {
+                        "word": "class"
+                    }
+                ]
+            },
+            {
+                "voice": "1002.mp3",
+                "image": "1002.jpg",
+                "chinese": "左伯经常乘坐他的宇宙飞船穿过太空去旅行。",
+                "english": "Zob travels across space in his spaceship."
+            },
+            {
+                "voice": "1003.mp3",
+                "image": "1003.jpg",
+                "chinese": "他从一个星球去另一个星球，从未迷路过。",
+                "english": "He goes from planet to planet and never gets lost."
+            },
+            {
+                "voice": "1004.mp3",
+                "image": "1004.jpg",
+                "chinese": "星期一，他来到地球上学",
+                "english": "On Monday, he comes down to Earth and goes to school."
+            },
+            {
+                "voice": "1005.mp3",
+                "image": "1005.jpg",
+                "chinese": "今天上数学课。\n左伯很擅长数学。\n他最先完成。",
+                "english": "Today's lesson is maths.\nZob is very good at maths.\nHe finishes first."
+            },
+            {
+                "voice": "1006.mp3",
+                "image": "1006.jpg",
+                "chinese": "于是左伯不得不去老师的办公室拿一本新的数学书。",
+                "english": "He has to get a new maths book from the teachers' office."
+            },
+            {
+                "voice": "1007.mp3",
+                "image": "1007.jpg",
+                "chinese": "珍给左伯指路，比利也来帮忙。\n\"老师的办公室在哪？\"",
+                "english": "Jen shows him which way to go. Billy helps.\nWhere is the teachers' office?"
+            },
+            {
+                "voice": "1008.mp3",
+                "image": "1008.jpg",
+                "chinese": "左伯走上一楼，路过图书馆和语言室，然后左转。\n老师的办公室在哪呢？",
+                "english": "Zob goes up to the first floor, past the library, past the language room, and then turns left.\nNow where?"
+            },
+            {
+                "voice": "1009.mp3",
+                "image": "1009.jpg",
+                "chinese": "这间是老师的办公室吗？\n不，这间是美术室。",
+                "english": "Is this the teachers' office?\nNo. This is the art room."
+            },
+            {
+                "voice": "1010.mp3",
+                "image": "1010.jpg",
+                "chinese": "左伯重新开始找。\n他走上一楼，路过图书馆和计算机房，然后右转。",
+                "english": "Zob starts again.\nHe goes up to the first floor, past the library, past the computer room, and then turns right."
+            },
+            {
+                "voice": "1011.mp3",
+                "image": "1011.jpg",
+                "chinese": "这间是老师的办公室吗？\n不，这间是音乐教室。\n它在科学实验室的旁边",
+                "english": "Is this the teachers' office?\nNo. This is the music room.It's next to the science lab."
+            },
+            {
+                "voice": "1012.mp3",
+                "image": "1012.jpg",
+                "chinese": "当左伯回到教室时，数学课已经结束了。\n\"你刚刚是迷路了吗\"\n\"是的。\"",
+                "english": "When Zob gets back to class, maths class is over.\nDid you get lost?\nYes"
+            },
+            {
+                "voice": "1013.mp3",
+                "image": "1013.jpg",
+                "chinese": "\"但是我穿越时空时从来不会迷路\"左伯说。\n\"你走了哪条路？\"\n\"发生了什么？\"",
+                "english": "But I travel across space and never get lost,\" says Zob.\nwhich way did you go?\nWhat happened?"
+            },
+            {
+                "voice": "1014.mp3",
+                "image": "1014.jpg",
+                "chinese": "左伯难过地摇摇头。\n\"我是指跟着地图走。\"",
+                "english": "Zob shakes his head sadly.\nI just followed the map."
+            },
+            {
+                "voice": "1015.mp3",
+                "image": "1015.jpg",
+                "chinese": "\"但是左伯，这是张太空地图！\"\n\"学校地图在这儿！\"",
+                "english": "But that's a space map. Zob!\nThe school map is here!"
+            }
+        ],
+        "bookId": "0204-1",
+        "bookNameEn": "Are You Lost, Zob?"
+    },
+    "series": "丽声北极星分级绘本第一级下",
+    "id": "0204"
+}

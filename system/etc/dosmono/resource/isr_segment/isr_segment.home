@@ -1,0 +1,74 @@
+# name; path; signature; 
+cnen.quick_replace;res/cn/cnen/quick_replace.lex;quick_replace; cnen;
+ugcn.quick_replace;res/ug/ugcn/quick_replace.lex;quick_replace; ugcn;
+
+# common
+com.symbol; res/com/symbol.lex; symbol;
+com.restore; res/com/restore.lex; symbol;
+com.blackword; res/com/blackword.lex; blackword;
+com.hideword; res/com/hideword.lex; abbr;
+
+# cn
+cn.sm; res/cn/sm.rul; sm;
+cn.symbol; res/cn/symbol.lex; symbol;
+cn.dict; res/cn/dict.lex; dict;
+cnug.dict; res/cn/cnug/cnug_dict.lex; dict; cnug; ugcn;
+cn.digit; res/cn/digit.lex; digit;
+cn.stopword; res/cn/stopword.lex; stopword;
+cnen.sm; res/cn/cnen/sm.rul; sm; cnen; encn;
+cnen; res/cn/cnen/cnen.lex; namedict; cnen; encn;
+cnen.entity;res/cn/cnen/entity_cnen.lex;namedict; cnen; encn;
+cnen_digit.replace;res/cn/cnen/digit_cnen.lex;namedict; cnen; encn;
+cnug_digit.replace;res/cn/cnug/digit_cnug.lex;namedict; cnug; ugcn;
+cnug.entity;res/cn/cnug/entity_cnug.lex;namedict; cnug; ugcn;
+cnug; res/cn/cnug/cnug.lex; namedict; cnug; ugcn;
+punct_cnen; res/cn/cnen/punct_cnen.lex; symbol; cnen; encn;
+punct_cnug; res/cn/cnen/punct_cnug.lex; symbol; cnen; encn;
+cn.interrogative; res/cn/interrogative.lex; interrogative;
+cn.metro; res/cn/metro.lex; metro;
+cn.surname; res/cn/surname.lex; metro;
+cn.given_name; res/cn/given_name.lex; metro;
+place_cnen; res/cn/cnen/place_cnen.lex; s2s; cnen; encn;
+human_cnen; res/cn/cnen/human_cnen.lex; s2s; cnen; encn;
+inst_cnen; res/cn/cnen/inst_cnen.lex; s2s; cnen; encn;
+cn.trad2simp; res/cn/trad2simp.lex; symbol;
+lastname_cnen; res/cn/cnen/lastname_cnen.lex; symbol; cnen; encn;
+cnen.vocab; res/cn/cnen/vocab_cnen.lex; abbr; cnen; encn;
+
+# en
+en.sm; res/en/sm.rul; sm; cnen; encn;
+en.symbol; res/en/symbol.lex; symbol; cnen; encn;
+en.dict; res/en/dict.lex; dict; cnen; encn;
+en.abbr; res/en/abbr.lex; abbr; cnen; encn;
+en.truecase; res/en/truecase.lex; truecase; cnen; encn;
+encn; res/en/encn/encn.lex; namedict; cnen; encn;
+punct_encn; res/en/encn/punct_encn.lex; symbol; cnen; encn;
+en.rp_rejoin; res/en/rp_rejoin.lex; s2s; cnen; encn;
+en.rp_truecase; res/en/rp_truecase.lex; s2s; cnen; encn;
+en.cat; res/en/cat.lex; abbr; cnen; encn;
+
+# ug
+ug.sm; res/ug/sm.rul; sm; cnug; ugcn;
+ug.symbol; res/ug/symbol.lex; symbol; cnug; ugcn;
+ug.dict; res/ug/dict.lex; dict; cnug; ugcn;
+punct_ugcn; res/ug/ugcn/punct_ugcn.lex; symbol; cnug; ugcn;
+ugcn.dict; res/ug/ugcn/ugcn.lex; dict; cnug; ugcn;
+ugcn.entity;res/ug/ugcn/entity_ugcn.lex;namedict; cnug; ugcn;
+ug.stopword; res/ug/stopword.lex; stopword; cnug; ugcn;
+
+# la
+la.sm; res/ug/sm.rul; sm; cnug; ugcn;
+la.symbol; res/ug/symbol.lex; symbol; cnug; ugcn;
+la.dict; res/ug/dict.lex; dict; cnug; ugcn;
+punct_lacn; res/ug/ugcn/punct_ugcn.lex; symbol;
+la.ugcn; res/ug/ugcn/ugcn.lex; namedict;
+
+# za
+#za.sm; res/za/sm.rul; sm; cnza; zacn;
+
+# off line 
+# trans database
+cnen.trans_db; res/cn/cnen/trans.db; trans_db; cnen;
+encn.trans_db; res/en/encn/trans.db; trans_db; encn;
+cnug.trans_db; res/cn/cnug/trans.db; trans_db; cnug;
+ugcn.trans_db; res/ug/ugcn/trans.db; trans_db; ugcn;

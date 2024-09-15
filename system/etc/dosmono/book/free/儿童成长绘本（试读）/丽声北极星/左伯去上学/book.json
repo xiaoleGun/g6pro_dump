@@ -1,0 +1,159 @@
+{
+    "book":
+    {
+        "bookName": "左伯去上学",
+        "content":
+        [
+            {
+                "voice": "1000.mp3",
+                "image": "1000.jpg",
+                "chinese": "左伯去上学",
+                "english": "ZoB At SchooL"
+            },
+            {
+                "voice": "1001.mp3",
+                "wordTitle": "Key Words",
+                "sentences":
+                [
+                    {
+                        "sentenceEn": "Let me ..."
+                    },
+                    {
+                        "sentenceEn": "Let's ..."
+                    }
+                ],
+                "sentenceTitle": "Sentence Structures",
+                "words":
+                [
+                    {
+                        "word": "playground"
+                    },
+                    {
+                        "word": " desk"
+                    },
+                    {
+                        "word": " window"
+                    },
+                    {
+                        "word": " teacher"
+                    },
+                    {
+                        "word": "classroom"
+                    },
+                    {
+                        "word": " door"
+                    },
+                    {
+                        "word": " maths"
+                    },
+                    {
+                        "word": " book"
+                    },
+                    {
+                        "word": " computer"
+                    },
+                    {
+                        "word": "music"
+                    },
+                    {
+                        "word": " piano"
+                    },
+                    {
+                        "word": " guitar"
+                    },
+                    {
+                        "word": " CD player"
+                    }
+                ]
+            },
+            {
+                "voice": "1002.mp3",
+                "image": "1002.jpg",
+                "chinese": "左伯从宇宙飞船中跳出来。\n他跑着穿过操场。",
+                "english": "Zob jumps out of the spaceship.\nHe runs across the playground."
+            },
+            {
+                "voice": "1003.mp3",
+                "image": "1003.jpg",
+                "chinese": "让我进去！\n一个外星人！\n看！\n孩子们从课桌上跳了起来。\n 朝窗户跑去。",
+                "english": "Let me in!\nAn alien!\nLook!\nThe children jump up from their desks.\nThey run to the window."
+            },
+            {
+                "voice": "1004.mp3",
+                "image": "1004.jpg",
+                "chinese": "老师打开教室的门。\n你好。你想学什么?\n一切！",
+                "english": "The teacher opens the classroom door.\nHello. What do you want to learn?\nEverything"
+            },
+            {
+                "voice": "1005.mp3",
+                "image": "1005.jpg",
+                "chinese": "我们来做数学练习吧。\n左伯的数学做得超级快。",
+                "english": "Let's do maths,\" says the teacher.\nZob is superfast at maths."
+            },
+            {
+                "voice": "1006.mp3",
+                "image": "1006.jpg",
+                "chinese": "\"让我们读书吧。\"珍说\n左伯读书读得超级快。\n完成了!接下来是什么?",
+                "english": "Let's read books,\" says Jen.\nZob is superfast at reading.\nFinished! What's next?"
+            },
+            {
+                "voice": "1007.mp3",
+                "image": "1007.jpg",
+                "chinese": "\"我们用电脑吧。\"比利说。\n左伯电脑打得超级快。\n完成了!接下来是什么?",
+                "english": "Let's use the computer,\" says Billy.\nZob is superfast on the computer.\nFinished! What's next?"
+            },
+            {
+                "voice": "1008.mp3",
+                "image": "1008.jpg",
+                "chinese": "\"我们演奏音乐吧。\"老师说。\n音乐是什么?",
+                "english": "Let's play some music,\"says the teacher.\nWhat's music?"
+            },
+            {
+                "voice": "1009.mp3",
+                "image": "1009.jpg",
+                "chinese": "佐伯弹钢琴。\n听起来糟透了。",
+                "english": "Zob plays the piano.\nIt sounds terrible."
+            },
+            {
+                "voice": "1010.mp3",
+                "image": "1010.jpg",
+                "chinese": "佐伯弹吉他。\n听起来糟透了。\n 但我什么都想学!",
+                "english": "Zob plays the guitar. \nIt sounds terrible.\nBut I want to learn everything!"
+            },
+            {
+                "voice": "1011.mp3",
+                "image": "1011.jpg",
+                "chinese": "试试这台CD播放机。老师说。",
+                "english": "Try this CD player,\" says the teacher."
+            },
+            {
+                "voice": "1012.mp3",
+                "image": "1012.jpg",
+                "chinese": "左伯按下\"播放\"键。\n听起来很好听",
+                "english": "Zob taps PLAY. \nIt sounds beautiful."
+            },
+            {
+                "voice": "1013.mp3",
+                "image": "1013.jpg",
+                "chinese": "\"我什么都能做。\"左伯说。\n音乐也可以！",
+                "english": "I can do everything,\" says Zob. \nEven music!\""
+            },
+            {
+                "voice": "1014.mp3",
+                "image": "1014.jpg",
+                "chinese": "\"接下来是什么？\"左伯说。\n\"现在该回家了。\"老师说。",
+                "english": "What's next?\" asks Zob.\nIt's home time now,\" says the teacher."
+            },
+            {
+                "voice": "1015.mp3",
+                "image": "1015.jpg",
+                "chinese": "左伯跳回宇宙飞船。\n\"再见！\"他说。",
+                "english": "Zob jumps back into the spaceship.\nSee you soon!\" he says."
+            }
+        ],
+        "bookId": "0203-1",
+        "bookNameEn": "ZoB At SchooL"
+    },
+    "series": "丽声北极星分级绘本第二级上",
+    "id": "0203"
+}

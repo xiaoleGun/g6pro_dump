@@ -1,0 +1,269 @@
+{
+    "book":
+    {
+        "bookName": "蚂蚁蜗牛赛跑",
+        "content":
+        [
+            {
+                "voice": "1000.mp3",
+                "image": "1000.jpg",
+                "chinese": "蚂蚁蜗牛赛跑",
+                "english": "Ant and Snail"
+            },
+            {
+                "voice": "1001.mp3",
+                "wordTitle": "核心拼读词汇",
+                "words":
+                [
+                    {
+                        "word": "a-nt  ant"
+                    },
+                    {
+                        "word": "r-e-st  rest"
+                    },
+                    {
+                        "word": "p-i-t  pit"
+                    },
+                    {
+                        "word": "t-o-p  top"
+                    },
+                    {
+                        "word": "st-u-ck  stuck"
+                    },
+                    {
+                        "word": "f-i-t  fit"
+                    },
+                    {
+                        "word": "h-i-t  hit"
+                    },
+                    {
+                        "word": "w-ai-t  wait"
+                    },
+                    {
+                        "word": "r-o-ck  rock"
+                    },
+                    {
+                        "word": "p-u-ff  puff"
+                    },
+                    {
+                        "word": "f-e-ll  fell"
+                    },
+                    {
+                        "word": "p-a-nt  pant"
+                    },
+                    {
+                        "word": "sn-ai-l  snail"
+                    },
+                    {
+                        "word": "st-o-p  stop"
+                    },
+                    {
+                        "word": "w-ai-t  wait"
+                    }
+                ],
+                "coreWordTitle": "核心视觉词",
+                "letterTitle": "核心拼读字母组合",
+                "coreWords":
+                [
+                    {
+                        "wordEn": "at"
+                    },
+                    {
+                        "wordEn": "big"
+                    },
+                    {
+                        "wordEn": "did"
+                    },
+                    {
+                        "wordEn": "for"
+                    },
+                    {
+                        "wordEn": "he"
+                    },
+                    {
+                        "wordEn": "help"
+                    },
+                    {
+                        "wordEn": "of"
+                    },
+                    {
+                        "wordEn": "on"
+                    },
+                    {
+                        "wordEn": "put"
+                    },
+                    {
+                        "wordEn": "ran"
+                    },
+                    {
+                        "wordEn": "was"
+                    }
+                ],
+                "letters":
+                [
+                    "a",
+                    "e",
+                    "i",
+                    "o",
+                    "u",
+                    "f",
+                    "h",
+                    "w",
+                    "ck",
+                    "ff",
+                    "ll",
+                    "nt",
+                    "sn",
+                    "st",
+                    "ai"
+                ]
+            },
+            {
+                "voice": "1002.mp3",
+                "image": "1002.jpg",
+                "chinese": "蚂蚁和蜗牛赛跑。",
+                "english": "Ant and Snail had a run."
+            },
+            {
+                "voice": "1003.mp3",
+                "image": "1003.jpg",
+                "chinese": "蚂蚁身体棒。\n蚂蚁跑得快。",
+                "english": "Ant was fit.\nAnt was fast."
+            },
+            {
+                "voice": "1004.mp3",
+                "image": "1004.jpg",
+                "chinese": "蜗牛身体差。\n蜗牛跑得慢。",
+                "english": "Snail was not fit.\nSnail was not fast."
+            },
+            {
+                "voice": "1005.mp3",
+                "image": "1005.jpg",
+                "chinese": "蚂蚁可不等蜗牛。\n他一溜烟跑远了。",
+                "english": "Ant did not wait for Snail.\nHe ran off fast."
+            },
+            {
+                "voice": "1006.mp3",
+                "image": "1006.jpg",
+                "chinese": "蚂蚁跑过一块大石头。\n他跑得很轻松，并没有气喘吁吁。",
+                "english": "Ant ran past the big rock.\nHe did not puff and he did not pant."
+            },
+            {
+                "voice": "1007.mp3",
+                "image": "1007.jpg",
+                "chinese": "蜗牛到了大石头旁，停下来休息了一下。",
+                "english": "Snail got to the big rock and had a rest."
+            },
+            {
+                "voice": "1008.mp3",
+                "image": "1008.jpg",
+                "chinese": "蚂蚁跑过一片草地。\n他没有停下脚步。",
+                "english": "Ant ran past the grass.\nHe did not stop."
+            },
+            {
+                "voice": "1009.mp3",
+                "image": "1009.jpg",
+                "chinese": "蚂蚁踩到了一根树枝。\n他掉进了坑里。",
+                "english": "Ant hit a stick.\nHe fell into a pit."
+            },
+            {
+                "voice": "1010.mp3",
+                "image": "1010.jpg",
+                "chinese": "“救命啊！救命啊！”\n蚂蚁被困在坑里出不来了。",
+                "english": "Help! Help!\nAnt was stuck in the pit."
+            },
+            {
+                "voice": "1011.mp3",
+                "image": "1011.jpg",
+                "chinese": "蜗牛终于来到了坑边。",
+                "english": "Snail got to the top of the pit at last."
+            },
+            {
+                "voice": "1012.mp3",
+                "image": "1012.jpg",
+                "chinese": "蜗牛把树枝伸进坑里。\n蚂蚁顺着树枝爬出了坑。",
+                "english": "Snail put the stick in the pit.\nAnt ran up it."
+            },
+            {
+                "voice": "1013.mp3",
+                "image": "1013.jpg",
+                "chinese": "蚂蚁和蜗牛坐在石头上，一起休息。",
+                "english": "Ant and Snail sat on a rock and had a rest."
+            },
+            {
+                "wordTitle": "词汇表",
+                "words":
+                [
+                    {
+                        "tsWord": "n.  蚂蚁",
+                        "word": "ant"
+                    },
+                    {
+                        "tsWord": "最后，最终",
+                        "word": "at last"
+                    },
+                    {
+                        "tsWord": "adj.  快的，快速的",
+                        "word": "fast"
+                    },
+                    {
+                        "tsWord": "adv.  快地，快速地",
+                        "word": "f it"
+                    },
+                    {
+                        "tsWord": "adj.（尤因经常锻炼而）健壮的，健康的",
+                        "word": "grass"
+                    },
+                    {
+                        "tsWord": "n. 草，青草",
+                        "word": "hit"
+                    },
+                    {
+                        "tsWord": "v. 撞击，碰撞",
+                        "word": "pant"
+                    },
+                    {
+                        "tsWord": "v. 气喘，喘息",
+                        "word": "past"
+                    },
+                    {
+                        "tsWord": "adv. 经过，越过",
+                        "word": "puff"
+                    },
+                    {
+                        "tsWord": "v. 喘粗气",
+                        "word": "rest"
+                    },
+                    {
+                        "tsWord": "n. 休息",
+                        "word": "rock"
+                    },
+                    {
+                        "tsWord": "n. 岩块，大石块",
+                        "word": "snail"
+                    },
+                    {
+                        "tsWord": "n. 蜗牛",
+                        "word": "stick"
+                    },
+                    {
+                        "tsWord": "n. 条状物，棍状物",
+                        "word": "stop"
+                    },
+                    {
+                        "tsWord": "v. 停下来",
+                        "word": "stuck"
+                    },
+                    {
+                        "tsWord": "adj.  卡住（无法动弹）的",
+                        "word": "wait"
+                    }
+                ]
+            }
+        ],
+        "bookId": "0106-1",
+        "bookNameEn": "Ant and Snail"
+    },
+    "series": "大猫自然拼读二级",
+    "id": "0106"
+}

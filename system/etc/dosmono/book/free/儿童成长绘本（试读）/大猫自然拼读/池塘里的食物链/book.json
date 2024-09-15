@@ -1,0 +1,170 @@
+{
+    "book":
+    {
+        "bookName": "池塘里的食物链",
+        "content":
+        [
+            {
+                "voice": "1000.mp3",
+                "image": "1000.jpg",
+                "chinese": "池塘里的食物链",
+                "english": "Pond Food"
+            },
+            {
+                "voice": "1001.mp3",
+                "wordTitle": "核心拼读词汇",
+                "words":
+                [
+                    {
+                        "word": "qu-a-ck  quack"
+                    },
+                    {
+                        "word": "sn-ai-l  snail"
+                    },
+                    {
+                        "word": "f-ee-d  feed"
+                    },
+                    {
+                        "word": "w-ee-d  weed"
+                    },
+                    {
+                        "word": "f-oo-d  food"
+                    }
+                ],
+                "coreWordTitle": "核心视觉词",
+                "letterTitle": "核心拼读字母组合",
+                "coreWords":
+                [
+                    {
+                        "wordEn": "are"
+                    },
+                    {
+                        "wordEn": "has"
+                    },
+                    {
+                        "wordEn": "look"
+                    },
+                    {
+                        "wordEn": "of"
+                    },
+                    {
+                        "wordEn": "today"
+                    }
+                ],
+                "letters":
+                [
+                    "qu",
+                    "ai",
+                    "ee",
+                    "oo"
+                ]
+            },
+            {
+                "voice": "1002.mp3",
+                "image": "1002.jpg",
+                "chinese": "池塘里有许多食物。",
+                "english": "The pond has a lot of food in it."
+            },
+            {
+                "voice": "1003.mp3",
+                "image": "1003.jpg",
+                "chinese": "池塘里有许多食物。",
+                "english": "Weeds are in the pond."
+            },
+            {
+                "voice": "1004.mp3",
+                "image": "1004.jpg",
+                "chinese": "田螺生活在池塘里。",
+                "english": "Snails are in the pond."
+            },
+            {
+                "voice": "1005.mp3",
+                "image": "1005.jpg",
+                "chinese": "田螺吃水草。",
+                "english": "Snails feed on the weeds."
+            },
+            {
+                "voice": "1006.mp3",
+                "image": "1006.jpg",
+                "chinese": "鱼在池塘里游。",
+                "english": "Fish swim in the pond."
+            },
+            {
+                "voice": "1007.mp3",
+                "image": "1007.jpg",
+                "chinese": "鱼吃田螺。",
+                "english": "Fish feed on the snails."
+            },
+            {
+                "voice": "1008.mp3",
+                "image": "1008.jpg",
+                "chinese": "青蛙蹦起来，扑通一声跳进池塘里。",
+                "english": "Frogs hop and plop in the pond."
+            },
+            {
+                "voice": "1009.mp3",
+                "image": "1009.jpg",
+                "chinese": "青蛙吃鱼。",
+                "english": "Frogs feed on the fish."
+            },
+            {
+                "voice": "1010.mp3",
+                "image": "1010.jpg",
+                "chinese": "鸭子在池塘里嘎嘎叫，在水上嬉戏。",
+                "english": "Ducks quack and splash on the pond."
+            },
+            {
+                "voice": "1011.mp3",
+                "image": "1011.jpg",
+                "chinese": "鸭子吃青蛙。",
+                "english": "Ducks feed on the frogs."
+            },
+            {
+                "voice": "1012.mp3",
+                "image": "1012.jpg",
+                "chinese": "一只狐狸到池塘边找吃的。",
+                "english": "A fox looks for food at the pond."
+            },
+            {
+                "voice": "1013.mp3",
+                "image": "1013.jpg",
+                "chinese": "（看来）今天池塘里没什么东西让狐狸吃了。",
+                "english": "The pond has no food for the fox today."
+            },
+            {
+                "wordTitle": "词汇表",
+                "words":
+                [
+                    {
+                        "tsWord": "（动物）以……为食物",
+                        "word": "feed on"
+                    },
+                    {
+                        "tsWord": "v.  扑通地落下",
+                        "word": "plop"
+                    },
+                    {
+                        "tsWord": "v.  发出嘎嘎声",
+                        "word": "quack"
+                    },
+                    {
+                        "tsWord": "n.  螺，田螺",
+                        "word": "snail"
+                    },
+                    {
+                        "tsWord": "v.  哗啦哗啦地使水飞溅，戏水",
+                        "word": "splash"
+                    },
+                    {
+                        "tsWord": "n.  水草",
+                        "word": "weed"
+                    }
+                ]
+            }
+        ],
+        "bookId": "0106-1",
+        "bookNameEn": "Pond Food"
+    },
+    "series": "大猫自然拼读三级",
+    "id": "0106"
+}

@@ -1,0 +1,117 @@
+{
+    "book":
+    {
+        "bookName": "吵闹的书包",
+        "content":
+        [
+            {
+                "voice": "1000.mp3",
+                "image": "1000.jpg",
+                "chinese": "吵闹的书包",
+                "english": "My Noisy Schoolbag"
+            },
+            {
+                "voice": "1001.mp3",
+                "wordTitle": "Key Words",
+                "sentences":
+                [
+                    {
+                        "sentenceEn": "I have ..."
+                    },
+                    {
+                        "sentenceEn": "Open your ..."
+                    }
+                ],
+                "sentenceTitle": "Sentence Structures",
+                "words":
+                [
+                    {
+                        "word": "schoolbag"
+                    },
+                    {
+                        "word": " book"
+                    },
+                    {
+                        "word": " crayon"
+                    },
+                    {
+                        "word": " pencil case"
+                    },
+                    {
+                        "word": " pencil"
+                    },
+                    {
+                        "word": " ruler"
+                    },
+                    {
+                        "word": " pencil sharpener"
+                    }
+                ]
+            },
+            {
+                "voice": "1002.mp3",
+                "image": "1002.jpg",
+                "chinese": "我有一个新书包。",
+                "english": "I have a new schoolbag."
+            },
+            {
+                "voice": "1003.mp3",
+                "image": "1003.jpg",
+                "chinese": "“那是什么声音？ ”",
+                "english": "What's that noise?"
+            },
+            {
+                "voice": "1004.mp3",
+                "image": "1004.jpg",
+                "chinese": "汤姆，打幵你的书包。",
+                "english": "Tom, open your schoolbag."
+            },
+            {
+                "voice": "1005.mp3",
+                "image": "1005.jpg",
+                "chinese": "有书、蜡笔和一个笔袋。",
+                "english": "Books, crayons and a pencil case."
+            },
+            {
+                "voice": "1006.mp3",
+                "image": "1006.jpg",
+                "chinese": "汤姆，你的笔袋可真大。",
+                "english": "Tom, you have a big pencil case."
+            },
+            {
+                "voice": "1007.mp3",
+                "image": "1007.jpg",
+                "chinese": "“那是什么声音？ ”",
+                "english": "What's that noise?"
+            },
+            {
+                "voice": "1008.mp3",
+                "image": "1008.jpg",
+                "chinese": "汤姆，打幵你的笔袋。",
+                "english": "Tom, open your pencil case."
+            },
+            {
+                "voice": "1009.mp3",
+                "image": "1009.jpg",
+                "chinese": "有铅笔和一把尺子。\n哦，那是什么？",
+                "english": "Pencils and a ruler.\nOh, what’s that?"
+            },
+            {
+                "voice": "1010.mp3",
+                "image": "1010.jpg",
+                "chinese": "哦，不！它跑了！",
+                "english": "Oh no! It’s running away."
+            },
+            {
+                "voice": "1011.mp3",
+                "image": "1011.jpg",
+                "chinese": "它是我的卷笔刀，好用极了!",
+                "english": "It’s my superduper pencil sharpener!"
+            }
+        ],
+        "bookId": "0201-1",
+        "bookNameEn": "My Noisy Schoolbag"
+    },
+    "series": "丽声北极星分级绘本第一级上",
+    "id": "0201"
+}
